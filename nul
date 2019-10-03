@@ -1,0 +1,4 @@
++ codenation-jest-score@1.0.2
+removed 9 packages, updated 1 package and audited 922079 packages in 8.632s
+found 11 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
