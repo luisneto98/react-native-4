@@ -1674,6 +1674,11 @@ code-point-at@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
 
+"codenation-jest-score@https://github.com/thecodenation/codenation-jest-score/tarball/master":
+  version "1.0.2"
+  uid "8d391b2d2f33630b86f1d060ecb773e0fd8b6885"
+  resolved "https://github.com/thecodenation/codenation-jest-score/tarball/master#8d391b2d2f33630b86f1d060ecb773e0fd8b6885"
+
 collection-visit@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/collection-visit/-/collection-visit-1.0.0.tgz#4bc0373c164bc3291b4d368c829cf1a80a59dca0"
@@ -2365,6 +2370,10 @@ expo-media-library@~5.0.1:
 expo-payments-stripe@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/expo-payments-stripe/-/expo-payments-stripe-5.0.1.tgz#da096cf81fc03dbfd540ce6814cc67222d7447ff"
+
+expo-permissions@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/expo-permissions/-/expo-permissions-7.0.0.tgz#f4135c3cf8e49c673a9a714459a1eb2b40fe2092"
 
 expo-permissions@~5.0.1:
   version "5.0.1"
@@ -4376,9 +4385,9 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
+moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
 
 morgan@^1.9.0:
   version "1.9.1"
